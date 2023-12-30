@@ -80,7 +80,6 @@ const handleTransactionDeleted = (id) => {
   toast.success('Transaction deleted successfully');
 }
 
-// Save to localstorage
 const saveTransactionsToLocalStorage = () => {
   localStorage.setItem('transactions', JSON.stringify(transactions.value));
 }
