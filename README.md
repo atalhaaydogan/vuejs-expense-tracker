@@ -1,4 +1,5 @@
 # vue-expense-tracker
+![To do Design](/src/assets/preview.png)
 
 This template should help get you started developing with Vue 3 in Vite.
 
